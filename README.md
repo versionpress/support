@@ -1,10 +1,10 @@
 # VersionPress Support
 
-[VersionPress](https://github.com/versionpress/versionpress) is an open source version control plugin for WordPress. If you have trouble running it please open an issue here:
+- For a quick chat, find us [**on Gitter**](https://gitter.im/versionpress/versionpress).
+- To provide details, **open an issue in this repo**:
+    1. **Search** the existing issues, for example,  [this searches for Apache issues](https://github.com/versionpress/support/issues?utf8=%E2%9C%93&q=Apache+is%3Aissue).
+    2. [Create new issue](https://github.com/versionpress/support/issues/new).
 
-1. Search the existing issues, e.g., [this](https://github.com/versionpress/support/issues?utf8=%E2%9C%93&q=Apache+is%3Aissue) searches for "Apache".
-2. [Create new issue](https://github.com/versionpress/support/issues/new).
+:warning: This repo and all you share here is **public**. Make sure to remove any private information.
 
-:exclamation: This repo and all you share here is **public** . Make sure to remove any private information.
-
-Note that this is a **community support**. Someone will probably try to help you but there are no guarantees. Also note that throwing stones might harm your computer.
+Note that this is a **community support**, provided on a best effort basis.
