@@ -1,10 +1,3 @@
-# VersionPress Support
+This is a **community** support for VersionPress – feel free to post [issues](https://github.com/versionpress/support/issues) here but don't expect official responses (VersionPress is a technology preview for developers and _not_ an actively supported plugin).
 
-- For a quick chat, find us [**on Gitter**](https://gitter.im/versionpress/versionpress).
-- To provide details, **open an issue in this repo**:
-    1. **Search** the existing issues, for example,  [this searches for Apache issues](https://github.com/versionpress/support/issues?utf8=%E2%9C%93&q=Apache+is%3Aissue).
-    2. [Create new issue](https://github.com/versionpress/support/issues/new).
-
-:warning: This repo and all you share here is **public**. Make sure to remove any private information.
-
-Note that this is a **community support**, provided on a best effort basis.
+You can also try [**Gitter chat**](https://gitter.im/versionpress/versionpress).
